@@ -1,0 +1,3 @@
+This is a java project I worked on for a class at Bridgewater College. This particular algorithm will take in a collection of 
+nodes and edges. For each edge their is a value associated with the edge that is the "cost" to traverse it. This algorithm
+will determine the path with the least cost from the start node to a specifed node in the tree. 
